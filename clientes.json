@@ -1,0 +1,63 @@
+[
+    {
+      "nombre": "Juan",
+      "apellidos": "Pérez",
+      "fechaNacimiento": "15/02/1990",
+      "dni": "DNI12345678"
+    },
+    {
+      "nombre": "María",
+      "apellidos": "González",
+      "fechaNacimiento": "10/07/1985",
+      "dni": "DNI87654321"
+    },
+    {
+      "nombre": "Carlos",
+      "apellidos": "Rodríguez",
+      "fechaNacimiento": "03/11/1995",
+      "dni": "DNI23456789"
+    },
+    {
+      "nombre": "Laura",
+      "apellidos": "Fernández",
+      "fechaNacimiento": "21/04/1992",
+      "dni": "DNI98765432"
+    },
+    {
+      "nombre": "Pedro",
+      "apellidos": "López",
+      "fechaNacimiento": "02/09/1988",
+      "dni": "DNI34567890"
+    },
+    {
+      "nombre": "Ana",
+      "apellidos": "Ruiz",
+      "fechaNacimiento": "17/06/1993",
+      "dni": "DNI56789012"
+    },
+    {
+      "nombre": "Sergio",
+      "apellidos": "Martínez",
+      "fechaNacimiento": "29/12/1997",
+      "dni": "DNI09876543"
+    },
+    {
+      "nombre": "Elena",
+      "apellidos": "Hernández",
+      "fechaNacimiento": "08/03/1991",
+      "dni": "DNI45678901"
+    },
+    {
+      "nombre": "Luisa",
+      "apellidos": "Torres",
+      "fechaNacimiento": "25/10/1987",
+      "dni": "DNI67890123"
+    },
+    {
+      "nombre": "Mario",
+      "apellidos": "Sánchez",
+      "fechaNacimiento": "12/07/1994",
+      "dni": "DNI21098765"
+    }
+  ]
+  

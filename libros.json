@@ -1,0 +1,73 @@
+[
+    {
+      "titulo": "El Gran Gatsby",
+      "autores": ["F. Scott Fitzgerald"],
+      "identificador": "ISBN9788491050871",
+      "categoria": "Drama",
+      "edadRecomendada": 16
+    },
+    {
+      "titulo": "1984",
+      "autores": ["George Orwell"],
+      "identificador": "ISBN9788408191080",
+      "categoria": "Ciencia Ficción",
+      "edadRecomendada": 18
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "autores": ["Miguel de Cervantes"],
+      "identificador": "ISBN9788424935838",
+      "categoria": "Clásico",
+      "edadRecomendada": 14
+    },
+    {
+      "titulo": "Cien años de soledad",
+      "autores": ["Gabriel García Márquez"],
+      "identificador": "ISBN9788439727460",
+      "categoria": "Realismo Mágico",
+      "edadRecomendada": 16
+    },
+    {
+      "titulo": "Orgullo y prejuicio",
+      "autores": ["Jane Austen"],
+      "identificador": "ISBN9788491050963",
+      "categoria": "Romance",
+      "edadRecomendada": 14
+    },
+    {
+      "titulo": "Harry Potter y la piedra filosofal",
+      "autores": ["J.K. Rowling"],
+      "identificador": "ISBN9788478884957",
+      "categoria": "Fantasía",
+      "edadRecomendada": 12
+    },
+    {
+      "titulo": "El señor de los anillos",
+      "autores": ["J.R.R. Tolkien"],
+      "identificador": "ISBN9788445071802",
+      "categoria": "Fantasía",
+      "edadRecomendada": 14
+    },
+    {
+      "titulo": "Las aventuras de Tom Sawyer",
+      "autores": ["Mark Twain"],
+      "identificador": "ISBN9788491052004",
+      "categoria": "Aventuras",
+      "edadRecomendada": 12
+    },
+    {
+      "titulo": "Matar a un ruiseñor",
+      "autores": ["Harper Lee"],
+      "identificador": "ISBN9788491052783",
+      "categoria": "Drama",
+      "edadRecomendada": 16
+    },
+    {
+      "titulo": "Crónicas de una muerte anunciada",
+      "autores": ["Gabriel García Márquez"],
+      "identificador": "ISBN9788497592208",
+      "categoria": "Drama",
+      "edadRecomendada": 16
+    }
+  ]
+  
